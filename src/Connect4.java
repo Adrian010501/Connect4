@@ -4,4 +4,8 @@ public class Connect4 {
 		System.out.println("howdy");
 	}
 
+	public void hi() {
+		System.out.prinntln("hi");
+	}
+
 }
